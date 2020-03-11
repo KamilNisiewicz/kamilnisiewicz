@@ -7,7 +7,8 @@
 	"attendance": 22000,
 	"distance": 295.1,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 2,
@@ -17,7 +18,8 @@
 	"attendance": 3500,
 	"distance": 204.2,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 3,
@@ -27,7 +29,8 @@
 	"attendance": 9500,
 	"distance": 289.8,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 4,
@@ -37,7 +40,8 @@
 	"attendance": 41000,
 	"distance": 15.3,
 	"type": "Ekstraklasa",
-	"silesia": 1
+	"silesia": 1,
+	"foreign": 0
     },
     {
 	"id": 5,
@@ -47,7 +51,8 @@
 	"attendance": 5500,
 	"distance": 47.7,
 	"type": "Ekstraklasa",
-	"silesia": 1
+	"silesia": 1,
+	"foreign": 0
     },
     {
 	"id": 6,
@@ -57,7 +62,8 @@
 	"attendance": 7000,
 	"distance": 18.2,
 	"type": "Puchar Polski",
-	"silesia": 1
+	"silesia": 1,
+	"foreign": 0
     },
     {
 	"id": 7,
@@ -67,7 +73,8 @@
 	"attendance": 40000,
 	"distance": 15.3,
 	"type": "Ekstraklasa",
-	"silesia": 1
+	"silesia": 1,
+	"foreign": 0
     },
     {
 	"id": 8,
@@ -77,7 +84,8 @@
 	"attendance": 3500,
 	"distance": 286.6,
 	"type": "1 liga",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 9,
@@ -87,7 +95,8 @@
 	"attendance": 3000,
 	"distance": 262.1,
 	"type": "1 liga",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 10,
@@ -97,7 +106,8 @@
 	"attendance": 8000,
 	"distance": 18.2,
 	"type": "1 liga",
-	"silesia": 1
+	"silesia": 1,
+	"foreign": 0
     },
     {
 	"id": 11,
@@ -107,7 +117,8 @@
 	"attendance": 19239,
 	"distance": 289.8,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 12,
@@ -117,7 +128,8 @@
 	"attendance": 7890,
 	"distance": 160.7,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 13,
@@ -127,7 +139,8 @@
 	"attendance": 7666,
 	"distance": 164.4,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 14,
@@ -137,7 +150,8 @@
 	"attendance": 17969,
 	"distance": 289.8,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 15,
@@ -147,7 +161,8 @@
 	"attendance": 9053,
 	"distance": 10.6,
 	"type": "Ekstraklasa",
-	"silesia": 1
+	"silesia": 1,
+	"foreign": 0
     },
     {
 	"id": 16,
@@ -157,7 +172,8 @@
 	"attendance": 5371,
 	"distance": 98.7,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 17,
@@ -167,7 +183,8 @@
 	"attendance": 2830,
 	"distance": 141.3,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
 	},
     {
 	"id": 18,
@@ -177,7 +194,8 @@
 	"attendance": 3359,
 	"distance": 351.1,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 19,
@@ -187,7 +205,8 @@
 	"attendance": 12493,
 	"distance": 495.3,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 20,
@@ -197,7 +216,8 @@
 	"attendance": 12304,
 	"distance": 98.7,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 21,
@@ -207,7 +227,8 @@
 	"attendance": 8724,
 	"distance": 98.7,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 22,
@@ -217,7 +238,8 @@
 	"attendance": 5875,
 	"distance": 160.7,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 23,
@@ -227,7 +249,8 @@
 	"attendance": 16606,
 	"distance": 289.8,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 24,
@@ -237,7 +260,8 @@
 	"attendance": 15467,
 	"distance": 295.1,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 25,
@@ -247,7 +271,8 @@
 	"attendance": 8573,
 	"distance": 481.5,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 26,
@@ -257,7 +282,8 @@
 	"attendance": 5415,
 	"distance": 351.1,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 27,
@@ -267,7 +293,8 @@
 	"attendance": 1238,
 	"distance": 184.7,
 	"type": "1 liga",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 28,
@@ -277,7 +304,8 @@
 	"attendance": 2730,
 	"distance": 559.4,
 	"type": "1 liga",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 29,
@@ -287,7 +315,8 @@
 	"attendance": 2500,
 	"distance": 92.2,
 	"type": "1 liga",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 30,
@@ -297,7 +326,8 @@
 	"attendance": 2564,
 	"distance": 291.2,
 	"type": "1 liga",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 31,
@@ -306,8 +336,9 @@
 	"score": "1-3",
 	"attendance": 2214,
 	"distance": 428.8,
-	"type": "Puchar POlski",
-	"silesia": 0
+	"type": "Puchar Polski",
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 32,
@@ -317,7 +348,8 @@
 	"attendance": 8346,
 	"distance": 98.7,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 33,
@@ -327,7 +359,8 @@
 	"attendance": 3519,
 	"distance": 196.3,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 34,
@@ -337,7 +370,8 @@
 	"attendance": 4548,
 	"distance": 510.1,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 35,
@@ -347,7 +381,8 @@
 	"attendance": 24981,
 	"distance": 289.8,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 36,
@@ -357,7 +392,8 @@
 	"attendance": 4367,
 	"distance": 286.6,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 37,
@@ -367,7 +403,8 @@
 	"attendance": 9960,
 	"distance": 160.7,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 38,
@@ -377,7 +414,8 @@
 	"attendance": 5579,
 	"distance": 10.6,
 	"type": "Ekstraklasa",
-	"silesia": 1
+	"silesia": 1,
+	"foreign": 0
     },
     {
 	"id": 39,
@@ -387,7 +425,8 @@
 	"attendance": 34028,
 	"distance": 295.1,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 40,
@@ -397,7 +436,8 @@
 	"attendance": 16124,
 	"distance": 289.8,
 	"type": "Puchar Polski",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 41,
@@ -407,7 +447,8 @@
 	"attendance": 25980,
 	"distance": 289.8,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 42,
@@ -417,17 +458,19 @@
 	"attendance": 7705,
 	"distance": 966.2,
 	"type": "Towarzyski",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 1
     },
     {
 	"id": 43,
 	"rival": "Zaria Balti",
 	"date": "19.07.2018 19:00",
 	"score": "1-1",
-	"attendance": 0,
+	"attendance": 2000,
 	"distance": 970.5,
 	"type": "Liga Europy",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 1
     },
     {
 	"id": 44,
@@ -437,7 +480,8 @@
 	"attendance": 1897,
 	"distance": 238.1,
 	"type": "Liga Europy",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 1
     },
     {
 	"id": 45,
@@ -447,7 +491,8 @@
 	"attendance": 4824,
 	"distance": 28.0,
 	"type": "Ekstraklasa",
-	"silesia": 1
+	"silesia": 1,
+	"foreign": 0
     },
     {
 	"id": 46,
@@ -457,7 +502,8 @@
 	"attendance": 6322,
 	"distance": 510.1,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 47,
@@ -467,7 +513,8 @@
 	"attendance": 9881,
 	"distance": 295.1,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 48,
@@ -477,7 +524,8 @@
 	"attendance": 7616,
 	"distance": 160.7,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 49,
@@ -487,7 +535,8 @@
 	"attendance": 6258,
 	"distance": 164.4,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 50,
@@ -497,7 +546,8 @@
 	"attendance": 8783,
 	"distance": 98.7,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 51,
@@ -507,7 +557,8 @@
 	"attendance": 18000,
 	"distance": 289.8,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 52,
@@ -517,7 +568,8 @@
 	"attendance": 7109,
 	"distance": 164.4,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     },
     {
 	"id": 53,
@@ -527,6 +579,7 @@
 	"attendance": 8196,
 	"distance": 160.7,
 	"type": "Ekstraklasa",
-	"silesia": 0
+	"silesia": 0,
+	"foreign": 0
     }
 ]}
