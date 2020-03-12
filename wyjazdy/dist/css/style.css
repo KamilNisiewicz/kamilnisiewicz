@@ -1,0 +1,86 @@
+body{
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(17,73,147,1) 50%, rgba(206,0,12,1) 100%);
+    font-family: 'Oxanium', cursive;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0px auto;
+    width:1150px;
+}
+
+header{
+    align-items: center;
+    display:flex;
+    justify-content: center;
+}
+
+header img{
+    margin:10px 20px;
+}
+
+header h1{
+    color:#ffffff;
+    font-size: 40px;
+    text-shadow: 2px 2px 2px #000000;
+}
+
+.aways h3{
+    font-size: 30px;
+    line-height: 50px;
+    margin: 0;
+}
+
+.aways .aways_list h3{
+    margin: 0 0 10px;
+}
+
+.aways .aways_list{
+    margin: 0 0 20px;
+}
+
+.aways .aways_list:last-child{
+    margin: 0 0 100px;
+}
+
+.aways .stats{
+    margin: 10px 0;
+}
+
+.aways .stats .stats-elem{
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.aways_list .aways_list_content{
+    display: flex;
+}
+
+.aways_list .aways_list_content .elem{
+    border: 1px solid;
+    flex: 2;
+    padding: 10px;
+}
+
+.aways_list .aways_list_content .elem.elem-small{
+    flex: 0.5;
+}
+
+.aways_list .aways_list_content .elem.elem-smaller{
+    flex: 1;
+}
+
+.aways_list .aways_list_content .elem.elem-big{
+    flex: 3;
+}
+
+.aways_list .aways_header .elem{
+    background: gold;
+    font-size: 18px;
+}
+
+.aways_list .aways_elem .elem{
+    background: #ffffff;
+    font-size: 16px;
+}

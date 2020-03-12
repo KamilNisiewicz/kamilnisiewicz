@@ -1,0 +1,58 @@
+@media (min-width: 576px) and (max-width: 1199.98px){
+    body{
+        background: rgba(206,0,12,1);
+    }
+    .container{
+        width: 700px;
+    }
+    .aways h3{
+        color: #ffffff;
+        text-shadow: 1px 1px 1px #000000;
+    }
+    .aways .stats .stats-elem{
+        color: #ffffff;
+        font-size: 20px;
+    }
+    .aways .stats .stats-elem strong{
+        text-shadow: 1px 1px 1px #000000;
+    }
+    .aways_list .aways_list_content .elem{
+        padding: 5px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    body{
+        background: rgba(206,0,12,1);
+    }
+    .container{
+        width: 350px;
+    }
+    header, .aways_list .aways_list_content{
+        flex-direction: column;
+    }
+    header h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    .aways h3{
+        color: #ffffff;
+        text-shadow: 1px 1px 1px #000000;
+    }
+    .aways .stats .stats-elem{
+        color: #ffffff;
+        font-size: 20px;
+    }
+    .aways .stats .stats-elem strong{
+        text-shadow: 1px 1px 1px #000000;
+    }
+    .aways_list .aways_header{
+        display: none;
+    }
+    .aways_list .aways_list_content{
+        margin: 0 0 20px;
+    }
+    .aways_list .aways_list_content .elem{
+        padding: 5px 20px;
+    }
+}
