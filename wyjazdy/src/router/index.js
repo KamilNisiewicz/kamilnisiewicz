@@ -5,6 +5,9 @@ import Aways from '@/components/Aways'
 Vue.use(Router)
 
 export default new Router({
+  base: '/wyjazdy',
+  mode: 'history',
+  hash: false,
   routes: [
     {
       path: '/',
