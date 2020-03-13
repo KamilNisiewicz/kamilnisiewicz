@@ -1,0 +1,9 @@
+@media (min-width: 576px) and (max-width: 1199.98px){
+
+}
+
+@media (max-width: 575.98px) {
+    img{
+        margin:0;
+    }
+}
