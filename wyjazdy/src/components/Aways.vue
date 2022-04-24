@@ -4,15 +4,15 @@
     <div class="stats">
       <div class="stats-elem">
         <label>Liczba wyjazdów:</label>
-        <strong>{{ stats.aways_count }}</strong>
+        <strong>{{ stats.awaysCount }}</strong>
       </div>
       <div class="stats-elem">
         <label>Przejechane kilometry:</label>
-        <strong>{{ stats.distance_sum }}</strong>
+        <strong>{{ stats.distanceSum }}</strong>
       </div>
       <div class="stats-elem">
         <label>Średnia km na wyjazd: </label>
-        <strong>{{ stats.distance_avg }}</strong>
+        <strong>{{ stats.distanceAvg }}</strong>
       </div>
       <div class="stats-elem">
         <label>Zwycięstwa:</label>
@@ -28,12 +28,12 @@
       </div>
       <div class="stats-elem">
         <label>Bilans bramkowy:</label>
-        <strong>{{ stats.goals_scored }}-{{ stats.goals_lost}}</strong>
+        <strong>{{ stats.goalsScored }}-{{ stats.goalsLost}}</strong>
       </div>
     </div>
-    <List header="Województwo śląskie" :aways="aways_silesia"></List>
-    <List header="Zagranica" :aways="aways_foreign"></List>
-    <List header="Polskie" :aways="aways_poland"></List>
+    <List header="Województwo śląskie" :aways="awaysSilesia"></List>
+    <List header="Zagranica" :aways="awaysForeign"></List>
+    <List header="Polskie" :aways="awaysPoland"></List>
   </div>
 </template>
 
@@ -49,9 +49,9 @@ export default {
   data () {
     return {
       aways: aways,
-      aways_foreign: [],
-      aways_poland: [],
-      aways_silesia: [],
+      awaysForeign: [],
+      awaysPoland: [],
+      awaysSilesia: [],
       stats: {}
     }
   },
@@ -60,64 +60,64 @@ export default {
   },
   methods: {
     createBaseDataAndStats: function (aways) {
-      let foreign_i = 0
-      let poland_i = 0
-      let silesia_i = 0
+      let foreignIterator = 0
+      let polandIterator = 0
+      let silesiaIterator = 0
 
-      let distance_sum = 0
+      let distanceSum = 0
 
       let wins = 0
       let draws = 0
       let loses = 0
-      let goals_scored = 0
-      let goals_lost = 0
-      let rival_count_tmp = {}
+      let goalsScored = 0
+      let goalsLost = 0
+      let rivalCountTmp = {}
 
       for (let i = 0; i < aways.length; i++) {
-        const current_rival = aways[i].rival
-        if(isNaN(rival_count_tmp[current_rival])){
-          rival_count_tmp[current_rival] = 0;
+        const currentRival = aways[i].rival
+        if (isNaN(rivalCountTmp[currentRival])) {
+          rivalCountTmp[currentRival] = 0
         }
-        rival_count_tmp[current_rival] = (rival_count_tmp[current_rival] + 1)
+        rivalCountTmp[currentRival] = (rivalCountTmp[currentRival] + 1)
 
         if (aways[i].silesia) {
-          this.aways_silesia[silesia_i] = aways[i]
-          this.aways_silesia[silesia_i].rival_count = rival_count_tmp[current_rival]
-          silesia_i++
+          this.awaysSilesia[silesiaIterator] = aways[i]
+          this.awaysSilesia[silesiaIterator].rivalCount = rivalCountTmp[currentRival]
+          silesiaIterator++
         } else if (this.aways.aways[i].foreign) {
-          this.aways_foreign[foreign_i] = aways[i]
-          this.aways_foreign[foreign_i].rival_count = rival_count_tmp[current_rival]
-          foreign_i++
+          this.awaysForeign[foreignIterator] = aways[i]
+          this.awaysForeign[foreignIterator].rivalCount = rivalCountTmp[currentRival]
+          foreignIterator++
         } else {
-          this.aways_poland[poland_i] = aways[i]
-          this.aways_poland[poland_i].rival_count = rival_count_tmp[current_rival]
-          poland_i++
+          this.awaysPoland[polandIterator] = aways[i]
+          this.awaysPoland[polandIterator].rivalCount = rivalCountTmp[currentRival]
+          polandIterator++
         }
 
-        distance_sum += aways[i].distance
+        distanceSum += aways[i].distance
 
-        let score_tmp = aways[i].score.split("-")
-        
-        if (score_tmp[0] > score_tmp[1]){
+        let scoreTmp = aways[i].score.split('-')
+
+        if (scoreTmp[0] > scoreTmp[1]) {
           loses += 1
-        } else if (score_tmp[0] < score_tmp[1]){
+        } else if (scoreTmp[0] < scoreTmp[1]) {
           wins += 1
         } else {
           draws += 1
         }
 
-        goals_scored += parseInt(score_tmp[1])
-        goals_lost += parseInt(score_tmp[0])
+        goalsScored += parseInt(scoreTmp[1])
+        goalsLost += parseInt(scoreTmp[0])
       }
 
-      this.stats.distance_sum = distance_sum.toFixed(2)
-      this.stats.distance_avg = (distance_sum / aways.length).toFixed(2)
+      this.stats.distanceSum = distanceSum.toFixed(2)
+      this.stats.distanceAvg = (distanceSum / aways.length).toFixed(2)
       this.stats.wins = wins
       this.stats.draws = draws
       this.stats.loses = loses
-      this.stats.goals_scored = goals_scored
-      this.stats.goals_lost = goals_lost
-      this.stats.aways_count = aways.length
+      this.stats.goalsScored = goalsScored
+      this.stats.goalsLost = goalsLost
+      this.stats.awaysCount = aways.length
     }
   }
 }

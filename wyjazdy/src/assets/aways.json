@@ -581,5 +581,27 @@
 	"type": "Ekstraklasa",
 	"silesia": 0,
 	"foreign": 0
+    },
+    {
+	"id": 54,
+	"rival": "Lech Poznań",
+	"date": "19.12.2021 15:00",
+	"score": "2-1",
+	"attendance": 15852,
+	"distance": 295.1,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 55,
+	"rival": "Wisła Kraków",
+	"date": "10.04.2022 15:00",
+	"score": "4-1",
+	"attendance": 17135,
+	"distance": 98.7,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
     }
 ]}

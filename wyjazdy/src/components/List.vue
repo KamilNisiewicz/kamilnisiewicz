@@ -12,7 +12,7 @@
         </div>
         <div v-for="(away, counter) in aways" :key="away.id" class="aways_list_content aways_elem">
           <div class="elem elem-small">{{ counter+1 }}</div>
-          <div class="elem elem-big">{{ away.rival }} ({{ away.rival_count }})</div>
+          <div class="elem elem-big">{{ away.rival }} ({{ away.rivalCount }})</div>
           <div class="elem elem-smaller">{{ away.score }}</div>
           <div class="elem">{{ away.date }}</div>
           <div class="elem">{{ away.attendance }}</div>
