@@ -603,5 +603,27 @@
 	"type": "Ekstraklasa",
 	"silesia": 0,
 	"foreign": 0
+    },
+    {
+	"id": 56,
+	"rival": "Legia Warszawa",
+	"date": "06.05.2021 20:30",
+	"score": "5-3",
+	"attendance": 16144,
+	"distance": 289.8,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 57,
+	"rival": "Śląsk Wrocław",
+	"date": "21.05.2022 17:30",
+	"score": "3-4",
+	"attendance": 11770,
+	"distance": 160.7,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
     }
 ]}
