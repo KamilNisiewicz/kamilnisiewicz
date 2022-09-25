@@ -625,5 +625,27 @@
 	"type": "Ekstraklasa",
 	"silesia": 0,
 	"foreign": 0
+    },
+    {
+	"id": 58,
+	"rival": "Legia Warszawa",
+	"date": "19.08.2022 20:30",
+	"score": "2-2",
+	"attendance": 23210,
+	"distance": 289.8,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 59,
+	"rival": "Korona Kielce",
+	"date": "18.09.2022 12:30",
+	"score": "1-2",
+	"attendance": 10615,
+	"distance": 164.4,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
     }
 ]}
