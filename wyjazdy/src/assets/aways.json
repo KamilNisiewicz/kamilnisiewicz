@@ -647,5 +647,49 @@
 	"type": "Ekstraklasa",
 	"silesia": 0,
 	"foreign": 0
+    },
+    {
+	"id": 60,
+	"rival": "Pogoń Szczecin",
+	"date": "05.11.2022 17:30",
+	"score": "1-4",
+	"attendance": 19615,
+	"distance": 510.1,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 61,
+	"rival": "Lech Poznań",
+	"date": "30.04.2023 17:30",
+	"score": "0-1",
+	"attendance": 28112,
+	"distance": 295.1,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 62,
+	"rival": "Stal Mielec",
+	"date": "12.11.2023 12:30",
+	"score": "2-1",
+	"attendance": 5665,
+	"distance": 210.0,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 63,
+	"rival": "Puszcza Niepołomice",
+	"date": "26.11.2023 12:30",
+	"score": "2-1",
+	"attendance": 2695,
+	"distance": 98.7,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
     }
 ]}
