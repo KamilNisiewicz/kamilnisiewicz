@@ -691,5 +691,93 @@
 	"type": "Ekstraklasa",
 	"silesia": 0,
 	"foreign": 0
+    },
+    {
+	"id": 64,
+	"rival": "Widzew Łódź",
+	"date": "25.02.2024 15:00",
+	"score": "3-1",
+	"attendance": 17367,
+	"distance": 195.0,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 65,
+	"rival": "Ruch Chorzów",
+	"date": "16.03.2024 17:30",
+	"score": "1-2",
+	"attendance": 38106,
+	"distance": 15.3,
+	"type": "Ekstraklasa",
+	"silesia": 1,
+	"foreign": 0
+    },
+    {
+	"id": 66,
+	"rival": "Pogoń Szczecin",
+	"date": "25.05.2024 17:30",
+	"score": "1-0",
+	"attendance": 19843,
+	"distance": 510.1,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 67,
+	"rival": "Lech Poznań",
+	"date": "21.07.2024 17:30",
+	"score": "2-0",
+	"attendance": 19620,
+	"distance": 295.1,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 68,
+	"rival": "Motor Lublin",
+	"date": "13.09.2024 18:00",
+	"score": "1-0",
+	"attendance": 12497,
+	"distance": 326.0,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 69,
+	"rival": "Legia Warszawa",
+	"date": "28.09.2024 20:15",
+	"score": "1-1",
+	"attendance": 24438,
+	"distance": 289.8,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 70,
+	"rival": "Widzew Łódź",
+	"date": "27.10.2024 17:30",
+	"score": "0-2",
+	"attendance": 16231,
+	"distance": 195.0,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 71,
+	"rival": "Śląsk Wrocław",
+	"date": "09.11.2024 20:15",
+	"score": "0-1",
+	"attendance": 12504,
+	"distance": 160.7,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
     }
 ]}
