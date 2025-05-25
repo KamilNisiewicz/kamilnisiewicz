@@ -607,7 +607,7 @@
     {
 	"id": 56,
 	"rival": "Legia Warszawa",
-	"date": "06.05.2021 20:30",
+	"date": "06.05.2022 20:30",
 	"score": "5-3",
 	"attendance": 16144,
 	"distance": 289.8,
@@ -661,6 +661,17 @@
     },
     {
 	"id": 61,
+	"rival": "KKS Kalisz",
+	"date": "08.11.2022 14:30",
+	"score": "3-3",
+	"attendance": 3998,
+	"distance": 191.9,
+	"type": "Puchar Polski",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 62,
 	"rival": "Lech Poznań",
 	"date": "30.04.2023 17:30",
 	"score": "0-1",
@@ -671,7 +682,7 @@
 	"foreign": 0
     },
     {
-	"id": 62,
+	"id": 63,
 	"rival": "Stal Mielec",
 	"date": "12.11.2023 12:30",
 	"score": "2-1",
@@ -682,7 +693,7 @@
 	"foreign": 0
     },
     {
-	"id": 63,
+	"id": 64,
 	"rival": "Puszcza Niepołomice",
 	"date": "26.11.2023 12:30",
 	"score": "2-1",
@@ -693,7 +704,7 @@
 	"foreign": 0
     },
     {
-	"id": 64,
+	"id": 65,
 	"rival": "Widzew Łódź",
 	"date": "25.02.2024 15:00",
 	"score": "3-1",
@@ -704,7 +715,7 @@
 	"foreign": 0
     },
     {
-	"id": 65,
+	"id": 66,
 	"rival": "Ruch Chorzów",
 	"date": "16.03.2024 17:30",
 	"score": "1-2",
@@ -715,7 +726,7 @@
 	"foreign": 0
     },
     {
-	"id": 66,
+	"id": 67,
 	"rival": "Pogoń Szczecin",
 	"date": "25.05.2024 17:30",
 	"score": "1-0",
@@ -726,7 +737,7 @@
 	"foreign": 0
     },
     {
-	"id": 67,
+	"id": 68,
 	"rival": "Lech Poznań",
 	"date": "21.07.2024 17:30",
 	"score": "2-0",
@@ -737,7 +748,7 @@
 	"foreign": 0
     },
     {
-	"id": 68,
+	"id": 69,
 	"rival": "Motor Lublin",
 	"date": "13.09.2024 18:00",
 	"score": "1-0",
@@ -748,7 +759,7 @@
 	"foreign": 0
     },
     {
-	"id": 69,
+	"id": 70,
 	"rival": "Legia Warszawa",
 	"date": "28.09.2024 20:15",
 	"score": "1-1",
@@ -759,7 +770,7 @@
 	"foreign": 0
     },
     {
-	"id": 70,
+	"id": 71,
 	"rival": "Widzew Łódź",
 	"date": "27.10.2024 17:30",
 	"score": "0-2",
@@ -770,7 +781,7 @@
 	"foreign": 0
     },
     {
-	"id": 71,
+	"id": 72,
 	"rival": "Śląsk Wrocław",
 	"date": "09.11.2024 20:15",
 	"score": "0-1",
@@ -778,6 +789,94 @@
 	"distance": 160.7,
 	"type": "Ekstraklasa",
 	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 73,
+	"rival": "Pogoń Szczecin",
+	"date": "07.02.2025 20:30",
+	"score": "3-0",
+	"attendance": 13245,
+	"distance": 510.1,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 74,
+	"rival": "Raków Częstochowa",
+	"date": "21.02.2025 20:30",
+	"score": "1-0",
+	"attendance": 5303,
+	"distance": 69.3,
+	"type": "Ekstraklasa",
+	"silesia": 1,
+	"foreign": 0
+    },
+    {
+	"id": 75,
+	"rival": "Lechia Gdańsk",
+	"date": "09.03.2025 14:45",
+	"score": "1-2",
+	"attendance": 10452,
+	"distance": 495.3,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 76,
+	"rival": "GKS Katowice",
+	"date": "30.03.2025 17:30",
+	"score": "2-1",
+	"attendance": 15048,
+	"distance": 18.5,
+	"type": "Ekstraklasa",
+	"silesia": 1,
+	"foreign": 0
+    },
+    {
+	"id": 77,
+	"rival": "Zagłębie Lubin",
+	"date": "11.04.2025 18:00",
+	"score": "2-1",
+	"attendance": 3936,
+	"distance": 238.0,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 78,
+	"rival": "Stal Mielec",
+	"date": "22.04.2025 19:00",
+	"score": "0-0",
+	"attendance": 4943,
+	"distance": 210.0,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 79,
+	"rival": "Jagiellonia Białystok",
+	"date": "04.05.2025 17:30",
+	"score": "1-1",
+	"attendance": 19070,
+	"distance": 481.5,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 80,
+	"rival": "Piast Gliwice",
+	"date": "17.05.2025 17:30",
+	"score": "2-0",
+	"attendance": 9361,
+	"distance": 10.6,
+	"type": "Ekstraklasa",
+	"silesia": 1,
 	"foreign": 0
     }
 ]}
