@@ -878,5 +878,71 @@
 	"type": "Ekstraklasa",
 	"silesia": 1,
 	"foreign": 0
+    },
+    {
+	"id": 81,
+	"rival": "Lech Poznań",
+	"date": "02.08.2025 20:15",
+	"score": "2-1",
+	"attendance": 31223,
+	"distance": 295.1,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 82,
+	"rival": "Cracovia Kraków",
+	"date": "27.09.2025 20:15",
+	"score": "1-1",
+	"attendance": 14006,
+	"distance": 98.7,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 83,
+	"rival": "Korona Kielce",
+	"date": "18.10.2025 14:45",
+	"score": "1-1",
+	"attendance": 13385,
+	"distance": 164.4,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 84,
+	"rival": "Arka Gdynia",
+	"date": "30.10.2025 18:00",
+	"score": "1-2",
+	"attendance": 5528,
+	"distance": 520.0,
+	"type": "Puchar Polski",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 85,
+	"rival": "Lechia Gdańsk",
+	"date": "02.12.2025 17:30",
+	"score": "1-3",
+	"attendance": 6502,
+	"distance": 495.3,
+	"type": "Puchar Polski",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 86,
+	"rival": "Lechia Gdańsk",
+	"date": "05.12.2025 20:30",
+	"score": "5-2",
+	"attendance": 9888,
+	"distance": 495.3,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
     }
 ]}
