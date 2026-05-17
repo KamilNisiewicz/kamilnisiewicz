@@ -944,5 +944,104 @@
 	"type": "Ekstraklasa",
 	"silesia": 0,
 	"foreign": 0
+    },
+    {
+	"id": 87,
+	"rival": "Bruk Bet Termalica Nieciecza",
+	"date": "16.02.2026 19:00",
+	"score": "1-1",
+	"attendance": 2958,
+	"distance": 196.3,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 88,
+	"rival": "GKS Katowice",
+	"date": "28.02.2026 20:15",
+	"score": "3-1",
+	"attendance": 13404,
+	"distance": 18.5,
+	"type": "Ekstraklasa",
+	"silesia": 1,
+	"foreign": 0
+    },
+    {
+	"id": 89,
+	"rival": "Lech Poznań",
+	"date": "04.03.2026 20:30",
+	"score": "0-1",
+	"attendance": 13577,
+	"distance": 295.1,
+	"type": "Puchar Polski",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 90,
+	"rival": "Motor Lublin",
+	"date": "08.03.2026 12:15",
+	"score": "0-0",
+	"attendance": 13212,
+	"distance": 326.0,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 91,
+	"rival": "Zawisza Bydgoszcz",
+	"date": "08.04.2026 18:00",
+	"score": "0-1",
+	"attendance": 20000,
+	"distance": 316.0,
+	"type": "Puchar Polski",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 92,
+	"rival": "Legia Warszawa",
+	"date": "11.04.2026 20:15",
+	"score": "1-1",
+	"attendance": 26635,
+	"distance": 289.8,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 93,
+	"rival": "Jagiellonia Białystok",
+	"date": "24.04.2026 20:30",
+	"score": "1-2",
+	"attendance": 19015,
+	"distance": 481.5,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 94,
+	"rival": "Raków Częstochowa",
+	"date": "02.05.2026 16:00",
+	"score": "0-2",
+	"attendance": 50072,
+	"distance": 289.8,
+	"type": "Puchar Polski",
+	"silesia": 0,
+	"foreign": 0
+    },
+    {
+	"id": 95,
+	"rival": "Wisła Płock",
+	"date": "16.05.2026 17:30",
+	"score": "0-1",
+	"attendance": 10244,
+	"distance": 286.6,
+	"type": "Ekstraklasa",
+	"silesia": 0,
+	"foreign": 0
     }
 ]}
